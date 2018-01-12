@@ -1,4 +1,6 @@
 ---
+filebeat_major_version: 6.x
+
 filebeat_create_config: true
 
 filebeat_prospectors:
